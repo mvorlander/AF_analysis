@@ -12,14 +12,14 @@ This notebook is a tool to annotate AF peak-vs-iptm plots and adds functionality
 2.  **Activate the environment:**
     
     ```bash
-    conda activate my_notebook_env
+    conda activate af_plots
     ```
     
 3.  **Install the Jupyter kernel:**
     
     ```bash
-    python -m ipykernel install --user --name my_notebook_env --display-name "My Notebook Env"
+    python -m ipykernel install --user --name af_plots_tool --display-name "af_plots"
     ```
     
-4.  **Launch Jupyter Notebook or JupyterLab and select the "My Notebook Env" kernel.**
+4.  **Launch Jupyter Notebook or JupyterLab and select the "af_plots" kernel.**
     

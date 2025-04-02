@@ -1,0 +1,14 @@
+name: my_notebook_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas=2.2.3
+  - numpy=2.0.2
+  - plotly=6.0.1
+  - ipywidgets=8.1.5
+  - requests=2.32.3
+  - ipython
+  - jupyter
+  - ipykernel
+  - pip

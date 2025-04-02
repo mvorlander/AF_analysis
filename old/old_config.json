@@ -1,0 +1,1 @@
+{"color_column": "DNaseI digest chromatin FLAG-mCh_RPB3", "size_column": "DNaseI digest chromatin FLAG-mCh_RPB3 vs DNaseI digest chromatin WT", "opacity_column": "spoc_score", "color_transform": "log2", "size_transform": "log2", "opacity_transform": "None"}

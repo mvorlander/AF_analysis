@@ -1,0 +1,16 @@
+{
+  "color_column": "DNaseI digest chromatin FLAG-mCh_RPB3_normalized_P19387 vs Nucleoplasm FLAG-mCh_RPB3_normalized_P19387",
+  "size_column": "DNaseI digest chromatin FLAG-mCh_RPB3 vs DNaseI digest chromatin WT",
+  "opacity_column": "spoc_score",
+  "color_transform": "None",
+  "size_transform": "None",
+  "opacity_transform": "None",
+  "color_min": -6.6995014763594325,
+  "color_max": 8.005353896705657,
+  "size_min": 2.0029960888435263,
+  "size_max": 9.617492186009306,
+  "opacity_min": 0.013,
+  "opacity_max": 0.987,
+  "color_scale": "RdBu",
+  "reverse_scale": false
+}
